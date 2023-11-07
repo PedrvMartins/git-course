@@ -10,4 +10,5 @@
 
 
 
-## SALVE ALTERAÇÃO
+## SALVE ALTERAÇÃO  
+* uso do comando git restore
